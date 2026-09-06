@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**maksimermilov10-ui/maksimermilov10-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Maksim Ermilov
 
-Here are some ideas to get you started:
+**Data Analyst** · SQL · Python · A/B-тестирование · BI-дашборды
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Москва / удалённо · 💬 Telegram: [https://t.me/ErmilovMaksim] · 📧 maksim-ermilov@inbox.ru
+
+</div>
+
+---
+
+Аналитик данных, работаю на стыке SQL/Python и продуктовой аналитики. Сейчас — аналитик Центра оценки и развития потенциала молодёжи (Губкинский университет), ранее — аналитик-практикант в «Газпром ВНИИГАЗ».
+
+**Кое-что из практики:**
+- Спроектировал и провёл лонгитюдное исследование компетенций 2 200+ студентов, построил 5 дашбордов в PIX BI с 30+ метриками для руководства факультетов
+- Разработал Telegram-бота (aiogram + PostgreSQL), закрывающего 80% типовых обращений — сократил время ответа с 2 часов до 5 минут
+- Построил расчётную модель восстановительной стоимости портфеля из 1000+ объектов основных средств в Excel, нашёл и исправил системную ошибку, искажавшую коэффициент почти в 5 раз
+
+**Стек:** Python (pandas, scikit-learn, matplotlib), SQL (PostgreSQL), Yandex DataLens, PIX BI, Excel · статистика (корреляционный, регрессионный анализ, A/B-тесты)
+
+**Куда хочу расти:** финансовая аналитика (расчётные модели, NPV, окупаемость — есть опыт из практики в «Газпром ВНИИГАЗ» и курса по финмоделированию в ВТБ) и продуктовая/маркетинговая аналитика (A/B-тесты, воронки, метрики удержания) — люблю задачи, где решение сразу видно в живых цифрах бизнеса, а не только в датасете.
+
+## Проекты
+
+Разборы SQL/Python-проектов с аналитическими записками — в [data-analyst-portfolio](https://github.com/maksimermilov10-ui/data-analyst-portfolio):
+
+- Анализ рынка недвижимости СПб и Ленобласти (SQL)
+- Исследование венчурного финансирования стартапов (Python)
+- Яндекс Книги — метрики, проверка гипотезы, A/B-тест (SQL + Python)
+- Яндекс Афиша — дипломный проект: SQL, DataLens-дашборд, EDA и проверка гипотез (Python)
+
+---
+
+<div align="center">
+Открыт к предложениям по удалённой работе
+</div>
